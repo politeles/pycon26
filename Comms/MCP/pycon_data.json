@@ -1,0 +1,86 @@
+[
+  {
+    "name": "PyCon US",
+    "short_name": "PyCon US",
+    "aliases": ["PyCon", "PyCon USA"],
+    "year": 2026,
+    "organizer": "Python Software Foundation",
+    "event_type": "conference",
+    "location": "Pittsburgh, PA, USA",
+    "dates": "2026-05-13 to 2026-05-21",
+    "language": "English",
+    "topics": ["python", "typing", "web", "data", "packaging", "testing", "ai"],
+    "official_url": "https://us.pycon.org/2026/",
+    "cfp_url": "https://us.pycon.org/2026/speaking/",
+    "deadlines": {
+      "cfp_open": "2025-11-01",
+      "cfp_submission": "2025-12-15",
+      "notification": "2026-01-31",
+      "schedule_publish": "2026-03-01"
+    },
+    "description": "Major annual Python conference in the United States."
+  },
+  {
+    "name": "PyCon Italia",
+    "short_name": "PyCon Italia",
+    "aliases": ["PyCon IT", "PyCon Italy"],
+    "year": 2026,
+    "organizer": "Python Italia",
+    "event_type": "conference",
+    "location": "Florence, Italy",
+    "dates": "2026-05-28 to 2026-05-31",
+    "language": "English/Italian",
+    "topics": ["python", "web", "devops", "data", "community", "education"],
+    "official_url": "https://pycon.it/",
+    "cfp_url": "https://pycon.it/en/cfp",
+    "deadlines": {
+      "cfp_open": "2025-12-01",
+      "cfp_submission": "2026-02-01",
+      "notification": "2026-03-01",
+      "schedule_publish": "2026-04-01"
+    },
+    "description": "Italian Python conference with strong community focus."
+  },
+  {
+    "name": "PyCon DE & PyData",
+    "short_name": "PyCon DE",
+    "aliases": ["PyCon DE", "PyData Berlin"],
+    "year": 2026,
+    "organizer": "PyCon DE organizers",
+    "event_type": "conference",
+    "location": "Berlin, Germany",
+    "dates": "2026-04-20 to 2026-04-24",
+    "language": "English",
+    "topics": ["python", "data", "machine learning", "packaging", "backend"],
+    "official_url": "https://2026.pycon.de/",
+    "cfp_url": "https://2026.pycon.de/call-for-proposals",
+    "deadlines": {
+      "cfp_open": "2025-10-15",
+      "cfp_submission": "2025-12-10",
+      "notification": "2026-01-20",
+      "schedule_publish": "2026-03-01"
+    },
+    "description": "Conference combining the Python and PyData communities in Germany."
+  },
+  {
+    "name": "PyCon APAC",
+    "short_name": "PyCon APAC",
+    "aliases": ["PyCon Asia Pacific"],
+    "year": 2026,
+    "organizer": "Regional PyCon community",
+    "event_type": "conference",
+    "location": "Singapore",
+    "dates": "2026-08-14 to 2026-08-16",
+    "language": "English",
+    "topics": ["python", "community", "web", "data", "education", "ai"],
+    "official_url": "https://pycon-apac.python.org/",
+    "cfp_url": "https://pycon-apac.python.org/cfp",
+    "deadlines": {
+      "cfp_open": "2026-02-01",
+      "cfp_submission": "2026-04-15",
+      "notification": "2026-05-15",
+      "schedule_publish": "2026-06-15"
+    },
+    "description": "Regional PyCon event for the Asia-Pacific Python community."
+  }
+]

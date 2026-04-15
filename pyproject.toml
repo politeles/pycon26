@@ -1,0 +1,25 @@
+[project]
+name = "pycon26"
+version = "0.1.0"
+description = "Código de ejemplo para el congreso nacional de python PyCon 2026"
+authors = [
+    {name = "José Enrique",email = "politeles@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12,<4.0"
+dependencies = [
+    "smolagents[mcp] (>=1.24.0,<2.0.0)",
+    "a2a-sdk[http-server] (>=0.3.26,<0.4.0)",
+    "fastapi (>=0.135.3,<0.136.0)",
+    "uvicorn (>=0.44.0,<0.45.0)",
+    "openai (>=2.31.0,<3.0.0)",
+    "duckduckgo-search (>=8.1.1,<9.0.0)",
+    "python-dotenv (>=1.2.2,<2.0.0)",
+    "fastmcp (>=3.2.4,<4.0.0)",
+    "ddgs (>=9.13.1,<10.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
